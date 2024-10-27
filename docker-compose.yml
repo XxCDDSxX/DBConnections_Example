@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  postgres:
+    build: .
+    container_name: postgres_container
+    environment:
+      - POSTGRES_USER=cdds
+      - POSTGRES_PASSWORD=1234
+    ports:
+      - "5432:5432"
+    networks:
+      my_network:
+        ipv4_address: 192.168.0.2
+
+# Define la red con un subred específico
+networks:
+  my_network:
+    ipam:
+      config:
+        - subnet: 192.168.0.0/16

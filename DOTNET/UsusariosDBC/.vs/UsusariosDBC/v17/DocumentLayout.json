@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\TECNM\\Semestre_7\\Otros\\DBConnections\\DOTNET\\UsusariosDBC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE27AD42-E142-4D80-BF4B-62E4BF6F7185}|UsuariosDBC_VB\\UsuariosDBC_VB.vbproj|f:\\tecnm\\semestre_7\\otros\\dbconnections\\dotnet\\ususariosdbc\\usuariosdbc_vb\\formvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CE27AD42-E142-4D80-BF4B-62E4BF6F7185}|UsuariosDBC_VB\\UsuariosDBC_VB.vbproj|solutionrelative:usuariosdbc_vb\\formvb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3E967E-9F95-466B-AFA5-96BA5EADA8B0}|UsusariosDBC\\UsusariosDBC.csproj|f:\\tecnm\\semestre_7\\otros\\dbconnections\\dotnet\\ususariosdbc\\ususariosdbc\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3E967E-9F95-466B-AFA5-96BA5EADA8B0}|UsusariosDBC\\UsusariosDBC.csproj|solutionrelative:ususariosdbc\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormVB.vb",
+              "DocumentMoniker": "F:\\TECNM\\Semestre_7\\Otros\\DBConnections\\DOTNET\\UsusariosDBC\\UsuariosDBC_VB\\FormVB.vb",
+              "RelativeDocumentMoniker": "UsuariosDBC_VB\\FormVB.vb",
+              "ToolTip": "F:\\TECNM\\Semestre_7\\Otros\\DBConnections\\DOTNET\\UsusariosDBC\\UsuariosDBC_VB\\FormVB.vb",
+              "RelativeToolTip": "UsuariosDBC_VB\\FormVB.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T05:03:58.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "F:\\TECNM\\Semestre_7\\Otros\\DBConnections\\DOTNET\\UsusariosDBC\\UsusariosDBC\\Form2.cs",
+              "RelativeDocumentMoniker": "UsusariosDBC\\Form2.cs",
+              "ToolTip": "F:\\TECNM\\Semestre_7\\Otros\\DBConnections\\DOTNET\\UsusariosDBC\\UsusariosDBC\\Form2.cs",
+              "RelativeToolTip": "UsusariosDBC\\Form2.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:03:42.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
